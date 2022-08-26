@@ -10,6 +10,22 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+StopFighting/[Ll]ibrary/
+StopFighting/[Tt]emp/
+StopFighting/[Oo]bj/
+StopFighting/[Bb]uild/
+StopFighting/[Bb]uilds/
+StopFighting/[Ll]ogs/
+StopFighting/[Mm]emoryCaptures/
+
+/StopFighting/[Ll]ibrary/
+/StopFighting/[Tt]emp/
+/StopFighting/[Oo]bj/
+/StopFighting/[Bb]uild/
+/StopFighting/[Bb]uilds/
+/StopFighting/[Ll]ogs/
+/StopFighting/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
